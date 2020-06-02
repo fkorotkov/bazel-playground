@@ -1,1 +1,1 @@
-/Users/fedor/workspace/bazel-playground/README.md
+# bazel-playground
