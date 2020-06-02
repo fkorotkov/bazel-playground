@@ -1,3 +1,6 @@
 .idea
 lib
-bazel-*
+bazel-bazel-playground
+bazel-bin
+bazel-out
+bazel-testlogs
